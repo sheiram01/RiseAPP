@@ -1,0 +1,26 @@
+# RiseAPP
+
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Home"
+        android:icon="@drawable/ic_Events_black_24dp"
+        android:title="@string/title_Home"/>
+
+    <item
+        android:id="@+id/navigation_NewsFeed"
+        android:icon="@drawable/ic_NewsFeed_black_24dp"
+        android:title="@string/title_NewsFeed"/>
+
+    <item
+        android:id="@+id/navigation_Events"
+        android:icon="@drawable/ic_Events_black_24dp"
+        android:title="@string/title_Events"/>
+
+    <item
+        android:id="@+id/navigation_Profile
+        android:icon="@drawable/ic_Profile_black_24dp"
+        android:title="@string/title_Profile
+
+</menu>
