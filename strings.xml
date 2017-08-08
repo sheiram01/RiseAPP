@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gwcRise</string>
+    <string name="fakePost1">This is the first fake post</string>
+    <string name="fakePost2">Omg another fake post, should probs fill this with real stuff</string>
+    <string name="fakePost3">Some more fake post blah blah blah</string>
+    <string name="fakePost4">Also need to change the size of these</string>
+    <string name="fakePost5">Last one here we go</string>
+    <string name="username">Nora Markus</string>
+    <string name="exBio">She is: Liberal, pro-choice, for the ACA, believes in climate change and black lives matter.</string>
+    <string name="text2">https://www.nytimes.com/2017/08/07/climate/climate-change-drastic-warming-trump.html</string>
+</resources>
